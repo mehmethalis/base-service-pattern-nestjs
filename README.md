@@ -32,6 +32,14 @@
 $ npm install
 ```
 
+## Environment variables
+`create .env file in your project root directory`
+
+  
+    DB_USERNAME= xxxxxxxxxxxxxxx
+    DB_PASSWORD= xxxxxxxxxxxxxxx
+
+
 ## Running the app
 
 ```bash
